@@ -6,10 +6,15 @@ https://slin1923-portfolio.github.io/projects/cubli.html
 
 All code in this repository is flashed OTA to the ESP32 WROOM 32 onboard Cublii.  **This repository is useless without having built your own Cublii hardware**.  
 
-<figure align="center">
+<!-- <figure align="center">
   <img src="/images/assembled_cubli_controller_side.jpg" width="600">
   <figcaption>Cublii in the flesh.  Go build it it's completely open source!</figcaption>
-</figure>
+</figure> -->
+
+<div align="center">
+  <img src="/images/assembled_cubli_controller_side.jpg" width="600">
+  <p><em>Cublii in the flesh.  Go build it it's completely open source!</em></p>
+</div>
 
 # Quick Facts
 
@@ -49,4 +54,3 @@ Status messages
 
 - Architecture complete
 - All hardware implemented
-- ```src/net``` handles all 
